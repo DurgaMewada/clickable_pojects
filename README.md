@@ -8,6 +8,12 @@
    <img src = "https://github.com/DurgaMewada/clickable_pojects/assets/149373536/cb3342aa-677e-4255-830d-4d44bb8cc90a" width=22% height=35% >
 </p>
 
+<p align="center">
+   <img src = "https://github.com/DurgaMewada/clickable_pojects/assets/149373536/5dca2a9e-95d1-4ae0-a256-014788ff2c5a" width=22% height=35% >
+   <img src = "https://github.com/DurgaMewada/clickable_pojects/assets/149373536/9995262d-7cdf-419e-ad06-ca61735566bf" width=22% height=35% >
+</p>
+
+
 A new Flutter project.
 ## Getting Started
 
