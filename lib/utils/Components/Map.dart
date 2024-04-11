@@ -190,18 +190,21 @@ Container ContainersOfMap() {
   );
 }
 
-AppBar MapAppbar() {
-  return AppBar(
-    backgroundColor: Colors.blueAccent,
-    leading: Icon(Icons.menu, size: 20, color: Colors.white),
-    centerTitle: true,
-    title: const Text(
-      'Map',
-      style: TextStyle(
-        color: Colors.white,
-        fontWeight: FontWeight.bold,
-        fontSize: 22,
+Scaffold MapAppbar() {
+  return Scaffold(
+        backgroundColor: Colors.grey.shade200,
+        appBar:AppBar(
+        backgroundColor: Colors.blueAccent,
+        leading: Icon(Icons.menu, size: 20, color: Colors.white),
+        centerTitle: true,
+        title: const Text(
+          'Map',
+          style: TextStyle(
+            color: Colors.white,
+            fontWeight: FontWeight.bold,
+            fontSize: 22,
+          ),
+        ),
       ),
-    ),
-  );
+      );
 }
