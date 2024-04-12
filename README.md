@@ -1,10 +1,8 @@
 
 ♦# Clickable_pojects
-<p>
-<video source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/adf0f373-c96c-439d-ad2e-994ca8388b98"  width=22% height=35%>
-<video source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/447d8158-9dbc-47f2-99a2-352cf7625306"  width=22% height=35% >
-<video source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/a92d18cf-f6b9-40db-9e3e-dbe43cfd2f79"  width=22% height=35% >
-</p>
+[Scroll_Screen_recording.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/ed847bf2-bc3f-49f3-8200-a7432ee64e32)
+[Screen_recording_Dynamic.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/dd850ca9-9c06-471a-977f-1c69763e5ce1)
+[Screen_recording_20240412_203937.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/51fe761b-08fa-4f1c-9e8a-537cdc3d535b)
 
 <p align="center">
     <img src = "https://github.com/DurgaMewada/clickable_pojects/assets/149373536/cb3342aa-677e-4255-830d-4d44bb8cc90a" width=22% height=35% >
