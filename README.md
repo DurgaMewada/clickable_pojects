@@ -1,9 +1,9 @@
 
 ♦# Clickable_pojects
 
-<video  width=22% height=35% controls> <source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/adf0f373-c96c-439d-ad2e-994ca8388b98">
-<video  width=22% height=35% controls> <source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/447d8158-9dbc-47f2-99a2-352cf7625306">
-<video  width=22% height=35% controls> <source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/a92d18cf-f6b9-40db-9e3e-dbe43cfd2f79">
+<video source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/adf0f373-c96c-439d-ad2e-994ca8388b98"  width=22% height=35%>
+<video source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/447d8158-9dbc-47f2-99a2-352cf7625306"  width=22% height=35% >
+<video source src ="https://github.com/DurgaMewada/clickable_pojects/assets/149373536/a92d18cf-f6b9-40db-9e3e-dbe43cfd2f79"  width=22% height=35% >
 
 
 <p align="center">
@@ -20,8 +20,6 @@
    <img src = "https://github.com/DurgaMewada/clickable_pojects/assets/149373536/9995262d-7cdf-419e-ad06-ca61735566bf" width=22% height=35% >
    <img src = "https://github.com/DurgaMewada/clickable_pojects/assets/149373536/037b68b7-6563-48f4-9f85-9b7d15584c15" width=22% height=35% >
 </p>
-![Screenshot_ColorAndIcons_Chance]()
-
 
 A new Flutter project.
 ## Getting Started
