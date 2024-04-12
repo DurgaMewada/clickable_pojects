@@ -1,9 +1,8 @@
 ♦# Clickable_pojects
 
 Screen Recording Of Projects(click on them to see)
-
-[Scroll_Screen_recording.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/ed847bf2-bc3f-49f3-8200-a7432ee64e32)
-[Screen_recording_Dynamic.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/dd850ca9-9c06-471a-977f-1c69763e5ce1)
+[Scroll_Screen_recording.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/ed847bf2-bc3f-49f3-8200-a7432ee64e32)   ,
+[Screen_recording_Dynamic.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/dd850ca9-9c06-471a-977f-1c69763e5ce1)  ,
 [Screen_recording_20240412_203937.webm](https://github.com/DurgaMewada/clickable_pojects/assets/149373536/51fe761b-08fa-4f1c-9e8a-537cdc3d535b)
 
 <p align="center">
